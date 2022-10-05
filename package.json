@@ -6,6 +6,9 @@
     "@aws-sdk/client-ses": "^3.183.0",
     "nodemailer": "^6.8.0"
   },
+  "peerDependencies": {
+    "@strapi/strapi": "^3.0.0"
+  },
   "author": {
     "name": "@smartforwarder"
   },
@@ -13,9 +16,5 @@
     "node": ">=10.16.0 <=16.x.x",
     "npm": "^6.0.0"
   },
-  "directories": {
-    "lib": "./lib"
-  },
-  "main": "./lib",
   "license": "MIT"
 }
