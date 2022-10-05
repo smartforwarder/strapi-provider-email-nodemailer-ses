@@ -19,6 +19,10 @@
   "directories": {
     "lib": "./lib"
   },
+
+  "strapi": {
+    "isProvider": true
+  },
   "main": "./lib",
   "license": "MIT"
 }
