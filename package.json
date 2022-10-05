@@ -16,5 +16,9 @@
     "node": ">=10.16.0 <=16.x.x",
     "npm": "^6.0.0"
   },
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "./lib",
   "license": "MIT"
 }
