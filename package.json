@@ -1,6 +1,6 @@
 {
   "name": "strapi-provider-email-nodemailer-ses",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "NodeMailer email provider for Strapi",
   "dependencies": {
     "@aws-sdk/client-ses": "^3.183.0",
